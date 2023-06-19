@@ -1,0 +1,23 @@
+#root > div > ul > li {
+    color: white ;
+    margin-bottom: 100px;
+}
+
+#root > div > ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#root > div > div > div.card-header > h5 {
+    margin-left: 103px 
+}
+
+#root > div > div:nth-child(2) > ul {
+    margin-left: 110px;
+}
+
+#root > div > a > button {
+    margin-top: 33px;
+    margin-left: 197px;
+}

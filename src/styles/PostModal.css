@@ -1,0 +1,28 @@
+body > div.fade.modal.show > div > div > div.modal-header > div {
+    color:blue;
+    margin-left: 103px;
+}
+
+body > div.fade.modal.show > div > div > div.modal-body > div > form > div:nth-child(3) > textarea {
+    width: 413px;
+}
+
+body > div.fade.modal.show > div > div > div.modal-header {
+    background-color: rgb(229, 220, 220);
+}
+body > div.fade.modal.show > div > div > div.modal-body > div > form > div:nth-child(2) > select {
+    margin-bottom: 10px;
+    margin-left: 172px;
+}
+
+body > div.fade.modal.show > div > div > div.modal-body > div > form > div.mt-8 > button:nth-child(1) {
+   border-radius: 5px;
+   margin-right: 10px;
+   margin-left: 148px;
+   padding: 2px
+}
+
+body > div.fade.modal.show > div > div > div.modal-body > div > form > div.mt-8 > button:nth-child(2) {
+    border-radius: 5px;
+    padding: 2px
+}

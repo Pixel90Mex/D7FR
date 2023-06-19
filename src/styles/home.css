@@ -1,0 +1,75 @@
+#root > nav > div:nth-child(1) > span {
+  color: rgb(42, 209, 23);
+  margin-left: -209px;
+  font-size: 2.00rem;
+  font-weight: bold;
+}
+
+#root > nav > div:nth-child(2) > a {
+  color: white;
+  margin-left: -381px;
+}
+
+#root > nav > div:nth-child(2) > a:hover {
+  color:rgb(42, 209, 23)
+}
+
+#root > footer > div > div > div > ul > li {
+  color: white;
+  list-style: none;
+  margin-top: 45px;
+}
+
+#root > footer {
+  margin-left: 129px;
+}
+
+#root > nav {
+  margin-top: 25px;
+  margin-bottom: 21px;
+  width: 1170px;
+}
+
+#root > hr {
+  color:white;
+  margin-bottom: 60px;
+  
+}
+
+#root > nav > div {
+  display: flex;
+  width: 142px;
+}
+
+#root > nav > div:nth-child(4) > span {
+  color: white;
+  font-weight: bold;
+  margin-left: -420px;
+}
+
+/* Menù tendina post per page */
+#root > nav > select {
+  border-radius: 8px;
+  width: 35px;
+  background-color: #27282c;
+  color: white;
+  margin-left: -407px;
+}
+
+/* Dropdown profilo utente */
+#basic-nav-dropdown {
+  color: white
+}
+
+/* Img profilo utente */
+#basic-nav-dropdown > img {
+  border-radius: 35px;
+}
+
+/* Btn add new post */
+#root > nav > button {
+  margin-right: -216px;
+}
+
+
+
